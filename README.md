@@ -1,6 +1,6 @@
 # Do you know me
 
-It is a quiz with few questions asked related to Virendra
+It is a CLI quiz app with few questions asked related to Virendra using node js. 
 
 ## About Do you know me.
 
