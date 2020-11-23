@@ -1,6 +1,11 @@
 # Do you know me
 
-It is a CLI quiz app with few questions asked related to Virendra using node js. 
+It is a CLI quiz app with few questions asked related to Virendra using node js.
+
+## Library used.
+1. [Readline-Sync](https://www.npmjs.com/package/readline-sync "User input")
+
+1. [CHALK](https://www.npmjs.com/package/chalk "Terminal styling")
 
 ## About Do you know me.
 
